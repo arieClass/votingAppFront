@@ -6,7 +6,7 @@
     "all-countries-and-cities-json": "^1.0.0",
     "bootstrap": "^4.3.1",
     "chroma-js": "^2.0.3",
-    "parse": "^2.4.0",
+    "parse": "^7.0.0",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.8",
     "react-datepicker": "^2.5.0",
